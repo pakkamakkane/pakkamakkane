@@ -1,1 +1,2 @@
-<img width="800" height="450" alt="Book   Candle GIF" src="https://github.com/user-attachments/assets/262eb889-490b-41bb-851a-f8357b22fe59" />
+<img width="400" height="224" alt="너의 모습이 가짜라도 좋아" src="https://github.com/user-attachments/assets/0e6a481b-6196-480a-b47b-01db63bd0c07" />
+
